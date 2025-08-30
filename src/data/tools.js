@@ -1,0 +1,20 @@
+export const images = [
+  "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=21278&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=108784&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=54087&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=84710&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=117561&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=20830&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000",
+  "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000",
+  "https://www.svgrepo.com/show/504203/capcut.svg",
+
+];
