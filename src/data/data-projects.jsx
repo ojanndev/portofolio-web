@@ -73,7 +73,7 @@ export const projects = [
     type: ["website"],
     scope: "Paid",
     desc: "A custom website built for a client to display interactive and personalized birthday greetings. The site allows users to share heartfelt messages with engaging visuals and animations, providing a fun and memorable experience for the celebrant.",
-    tools: [images[6], images[7], images[4], images[5]],
+    tools: [images[0], images[1], images[2]],
     url: "https://comforting-lolly-5e1a5c.netlify.app/",
     repo: "https://github.com/ojanndev/ucapan-ultah",
   },
