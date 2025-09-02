@@ -41,7 +41,7 @@ export const projects = [
     title: "DapoerKaisya – Web App Manajemen Restoran",
     image: web[4],
     type: ["website"],
-    scope: "personal",
+    scope: "Personal",
     desc: "DapoerKaisya is a simple yet comprehensive web application designed to help restaurant owners and culinary MSMEs (Micro, Small, and Medium Enterprises) manage their daily operations digitally. Built with basic web technologies, this application is suitable for use on laptops or smartphones without the need to install additional apps.",
     tools: [images[0], images[1], images[2], images[9], images[10], images[3]],
     url: "http://www.dapoerkaisya.byethost33.com/index.php",
