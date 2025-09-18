@@ -50,7 +50,7 @@ export default function Hero() {
           <div className="mt-3 text-center md:text-left">
             <p className="text-gray-300 font-light italic">Fullstack Dev</p>
             <p className="text-base font-light leading-relaxed text-gray-200">
-              I am a full-stack developer proficient in <b>Laravel & JavaScript.</b>
+              I am a full-stack developer proficient in <b>Laravel & React.js.</b>
             </p>
           </div>
           <div className="flex gap-4 mt-6 justify-center md:justify-start">

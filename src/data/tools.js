@@ -17,7 +17,7 @@ export const images = [
   "https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000",
   "https://assets.streamlinehq.com/image/private/w_34,h_34,ar_1/f_auto/v1/icons/3/git-icon-8q586zkd4wh37xs9in39sb.png/git-icon-ua1ejgt0kyhuc1lw1amdph.png?_a=DATAg1AAZAA0",
   "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000",
-  "https://assets.streamlinehq.com/image/private/w_34,h_34,ar_1/f_auto/v1/icons/1/adobe-lightroom-jqr11hbjxaih0bmg3kfwos.png/adobe-lightroom-e56ldh5i8bdhkqmskjp5.png?_a=DATAg1AAZAA0",
+  "https://assets.streamlinehq.com/image/private/w_34,h_34,ar_1/f_auto/v1/icons/1/adobe-lightroom-jqr11hbjxaih0bmg3kfwos.png/adobe-lightroom-e56ldh5i8bdhkqmskjp5.png?_a=DATAg1AAZAA0 ",
   "https://www.svgrepo.com/show/504203/capcut.svg",
 
 ];
